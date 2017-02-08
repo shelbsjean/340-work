@@ -1,0 +1,16 @@
+Name: {Shelby Swanson}
+Date: {2/2/2017}
+
+This is my first text document for MART 340 - Web Development. WOW!!
+That has now been altered!
+
+I added this file in my text editor!!!!
+
+Adding a new line.
+And another!
+
+
+HAHAHA
+I don't know why I capitalized the 'haha'
+
+Making a change so I can add a commit in SourceTree
