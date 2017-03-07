@@ -1,2 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Week 5 HW</title>
+</head>
+
+<body>
+  <img src="resources/pizza.jpg" alt="An image of a pepperoni pizza."
+  title="Pepperoni Pizza" width="300" height="200"><br />
+
+  <h1>Pizza Preferences</h1>
+<form class="pizza_form" action="#" method="get"
+
+  <fieldset>
+    <label for="name">Type name here</label>
+      <input type="text" name="name" placeholder="First and Last name"
+      autofocus required>
+      <br />
+    <label for="email">Please provide an email</label>
+    <input type="email" name="email" placeholder="john.doe@me.com" required>
+    <br />
+
+ <fieldset>
+   <label for="toppings"> What is topping(s) do you like on your pizza?
+     (select all that apply)</label><br />
+     <input type="checkbox" name="toppings" vaule="pepperoni"> Pepperoni<br />
+     <input type="checkbox" name="toppings" vaule="sausage"> Sausage<br />
+     <input type="checkbox" name="toppings" vaule="onions"> Onions<br />
+     <input type="checkbox" name="toppings" vaule="peppers"> Peppers<br />
+     <input type="checkbox" name="toppings" vaule="pineapple"> Pineapple<br />
+  </fieldset>
+  <fieldset>
+    <p>How do you order your pizza? </p>
+    <select name="type"><br />
+      <option value="online">Online</option>
+      <option value="instore">In-store</option>
+      <option value="other">Other</option>
+    </select><br />
+  </fieldset><br />
+  <fieldset>
+    <label for="frequency"> How often do you eat pizza? (choose one)</label>
+    <br />
+    <input type="radio" name="frequency" vaule="once a month"> Once a month
+    <br />
+    <input type="radio" name="frequency" vaule="twice a month"> Twice a month
+    <br />
+    <input type="radio" name="frequency" vaule="once a day">
+    Once a day<br />
+    <img src="resources/people&pizza.jpg" alt="Image of group of people eating
+    pizza and smiling" title="People sharing a pizza" width="200" height="150">
+  </fieldset>
 
 
+  <label for="funny story"> Please describe the funniest experience you've had
+    while eating and/or ordering pizza</label>
+    <textarea name="funny story" cols="20" rows="4" style="min-width:100%">
+      This one time...</textarea>
+    <input type="submit" name="submit" vaule="submit" />
+
+</fieldset>
+</form>
+<br />
+<div class="image">
+    <a href="http://google.com">
+       <img src="resources/cheese.jpg" alt="Image of multiple kinds of cheeses"
+       title="Cheese" width="250" height="150">
+    </a>
+  </div>
+</body>
+</html>
