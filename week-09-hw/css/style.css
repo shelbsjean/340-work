@@ -1,0 +1,183 @@
+body {
+font-family: 'BioRhyme', serif;
+font-family: 'Raleway', sans-serif;
+background-color: #F2F9F1;}
+
+header {
+    margin: 0;
+    padding: 0;
+}
+.menu-container {
+    background-color: #CD853F;
+    margin: 0;
+    padding: 0;
+  }
+.menu-item {
+
+    display: inline-block;
+    margin: 0;
+
+    text-align: center;
+    background-color: #F5FFFA;
+    padding: 0.5em 0;
+    width: 30%;
+
+}
+
+.menu-item a {
+    color: #6B8E23;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #778899;
+}
+
+.dropdown {
+    display: inline-block; margin: auto;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+
+    margin: 0;
+    margin-top: 0.5em;
+    color: #D2B48C;
+    background-color: #D3D3D3;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #D2B48C;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 8em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #D2B48C;
+    background-color: #D3D3D3;
+}
+
+.main-header {
+    margin: auto;
+    background-color: #CD853F;
+    height: 80px;
+
+
+}
+
+.site-name {
+
+  background-color: #CD853F;
+  height: auto;
+    float: center;
+    padding: 10px;
+
+    font-weight: lighter;
+    font-size: 3em;
+    color: #F2F9F1;
+  text-align: center;
+}
+
+
+.site-logo {
+
+    float: right;
+    padding: 5px;
+    margin-right: 0em;
+}
+
+.site-logo img {
+    height: 66px;
+}
+
+}
+.main-container h1 {
+    text-align: center;
+    font-family: 'BioRhyme', serif;
+    font-weight: 200;
+    letter-spacing: 0.4em;
+    word-spacing: 1em;
+    padding: 1em;
+    margin-top: auto;
+    color: #000000;
+
+
+
+
+}
+
+.main-container p {
+    padding: 1em 1em;
+    font-family: 'Raleway', sans-serif
+    text-indent: 1.5em;
+    line-height: 1.5em;
+    text-align: justify; }
+
+    .side.menuitem {
+      width: 120px;
+         height: auto;
+    display: block;
+    font-size: 1em;
+    font-weight: lighter;
+    padding: 0.5em;
+    margin: 0.1em 0;
+    text-decoration: none;
+    background-color: #778899;
+    color: #6B8E23;
+}
+
+.side.menuitem {
+    display: block;
+    font-size: 1em;
+    font-weight: lighter;
+    padding: 0.5em;
+    margin: 0.1em 0;
+    text-decoration: none;
+    background-color: #778899;
+    color: #6B8E23;
+
+}
+
+.side.menuitem:hover {
+    background-color: #778899;
+    color: #6B8E23;
+}
+
+
+
+span.bold { font-weight: bold;
+font-size: 2em;
+text-align: center;}
+
+#normdiv {
+font-size: 1em;
+    z-index: 6;
+    height: 70px;
+    border: 2px double #6B8E23;
+    background-color: #778899;
+    margin: 0px 50px 0px 50px;
+    text-align: center;
+}
+#reldiv2 {
+    z-index: -2;
+    height: 100px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    border: 1px dashed #6B8E23;
+    background-color: #778899;
+    margin: 0px 50px 0px 50px;
+    text-align: center;
+}
