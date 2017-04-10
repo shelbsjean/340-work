@@ -99,7 +99,7 @@ header {
 }
 
 .site-logo img {
-    height: 66px;
+    height: 55px;
 }
 
 }
@@ -134,8 +134,8 @@ header {
     padding: 0.5em;
     margin: 0.1em 0;
     text-decoration: none;
-    background-color: #778899;
-    color: #6B8E23;
+    background-color: #D3D3D3;
+    color: #CD853F;
 }
 
 .side.menuitem {
@@ -145,14 +145,14 @@ header {
     padding: 0.5em;
     margin: 0.1em 0;
     text-decoration: none;
-    background-color: #778899;
-    color: #6B8E23;
+    background-color: #D3D3D3;
+    color: #CD853F;
 
 }
 
 .side.menuitem:hover {
-    background-color: #778899;
-    color: #6B8E23;
+    background-color: #D3D3D3;
+    color: #CD853F;
 }
 
 
@@ -165,8 +165,8 @@ text-align: center;}
 font-size: 1em;
     z-index: 6;
     height: 70px;
-    border: 2px double #6B8E23;
-    background-color: #778899;
+    border: 2px double #CD853F;
+    background-color: #D3D3D3;
     margin: 0px 50px 0px 50px;
     text-align: center;
 }
@@ -176,8 +176,8 @@ font-size: 1em;
     position: relative;
     top: 15px;
     left: 20px;
-    border: 1px dashed #6B8E23;
-    background-color: #778899;
+    border: 1px dashed #CD853F;
+    background-color: #D3D3D3;
     margin: 0px 50px 0px 50px;
     text-align: center;
 }
