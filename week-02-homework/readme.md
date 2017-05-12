@@ -10,4 +10,4 @@
 
 5. I procrastinated on this cycle of homework and there for was unable to help fellow classmates and discuss issues and triumphs with them. I will for sure complete and work on next weeks cycle earlier so that I can engage in discussions with classmates.  
 
-![Image of my editor](screenshot1.png)
+![Image of my editor](screenshot1.png) 
